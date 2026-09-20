@@ -1,2 +1,2 @@
 # Cardl
-Wordle clone with cards made using CustomTkinter
+Wordle clone with cards made using Python and CustomTkinter
